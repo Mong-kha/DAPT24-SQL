@@ -1,0 +1,1 @@
+/*esercizio script ospedale*/
